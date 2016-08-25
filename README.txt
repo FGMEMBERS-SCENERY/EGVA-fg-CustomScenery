@@ -2,7 +2,9 @@ FlightGear's RAF Fairford
 -------------------------
 
 Note: This scenery package has been formatted, and now also installs with
-terraGIT. To install, simply download, and include in additional Scenery path
+terraGIT. 
+
+To install separately, simply download, and include in additional Scenery path
 for FG. 
 
 ***
